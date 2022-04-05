@@ -6,7 +6,7 @@ const Header = () => {
 
         <nav className="navbar navbar-expand-sm navbar-dark bg-dark">
             <div className="container-fluid">
-                <Link className="navbar-brand fw-bolder fs-2 text-warning" to="/">Review<span>দেন</span></Link>
+                <Link className="navbar-brand fw-bolder fs-2 text-warning" to="/">Review<span className='fs-1 fst-italic'>BABA</span></Link>
                 <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarText" aria-controls="navbarText" aria-expanded="false" aria-label="Toggle navigation">
                     <span className="navbar-toggler-icon"></span>
                 </button>

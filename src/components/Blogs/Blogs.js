@@ -3,7 +3,7 @@ import React from 'react';
 const Blogs = () => {
     return (
         <div className="container my-5">
-            <h2 className="fw-bolder display-4 my-5 text-success border-bottom border-5  text-center text-secondary">Q & A for Bonus Marks</h2>
+            <h2 className="fw-bolder display-4 my-3 text-success border-bottom border-5  text-center text-secondary">Q & A for Bonus Marks</h2>
             <div className="row ">
                 <div className="col-12 ">
                     <div className="accordion w-100 " id="accordionExample">

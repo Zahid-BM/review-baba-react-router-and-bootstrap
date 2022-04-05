@@ -17,7 +17,7 @@ const Header = () => {
                         </li>
 
                         <li className="nav-item">
-                            <Link className="nav-link text-info fw-bold" to='/reviewpage'>All Reviews</Link>
+                            <Link className="nav-link text-info fw-bold" to='/reviewpage'>Reviews</Link>
                         </li>
                         <li className="nav-item">
                             <Link className="nav-link text-info fw-bold" to='/dashboard'>Dashboard</Link>

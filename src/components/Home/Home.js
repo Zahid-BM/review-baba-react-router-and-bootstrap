@@ -12,8 +12,8 @@ const Home = () => {
                     <h1 className='fw-bolder display-1 text-start'>Books are the <span className='text-success'>Best Friends</span></h1>
                     <p className='text-start'>Reading books can enrich your knowledge, outlook and attitudes. But if you do not encourage people to read books then the knowledge, outlook and attitudes will be confined in you and no one will care about knowledge, outlook and attitudes. For that reliable reviews can do a lot. So write reviews to know more and write reviews to spread.</p>
                     <Link to="/reviewpage">
-                        <div class="d-grid gap-2 d-md-flex justify-content-start my-4">
-                            <button class="btn btn-primary btn-lg" type="button">Explore Reviews</button>
+                        <div className="d-grid gap-2 d-md-flex justify-content-start my-4">
+                            <button className="btn btn-primary btn-lg" type="button">Explore Reviews</button>
                         </div>
                     </Link>
                 </div>

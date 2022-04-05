@@ -12,6 +12,9 @@ const Home = () => {
                     <img className='w-100 h-100 rounded' src={'https://img.freepik.com/free-psd/abstract-background-with-opened-book_23-2149085907.jpg?w=826&t=st=1649146958~exp=1649147558~hmac=0b4c9c0c11e9ddb8920a4cacd38d8525c74aac557ee5b068871f57000e2ca315'} alt="" />
                 </div>
             </div>
+            <div className="col">
+
+            </div>
 
         </div>
     );

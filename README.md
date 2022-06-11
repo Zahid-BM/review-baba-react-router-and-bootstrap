@@ -1,11 +1,13 @@
 # reviewBABA
 
-This website is for assignment no:09 and hosted here [Netlify Link](https://assignment-09-react-router.netlify.app/).
+This website is An interactive mobile responsive SPA Book review Website with Reactjs and hosted here [Netlify Link](https://assignment-09-react-router.netlify.app/).
 
-## In brief about this website
+* Clicking on Explore Reviews button user will be redirected to reviews route and there user can see all the reviews.
+* In the home page only three reviews are displayed. Prevented to show all the reviews..
+* There is a button in the home page named see all reviews and after clicking on that button user will be redirected to reviews route and there user can see all the reviews.
+* A financial reports is shown in the two charts in the dashboard.
+* Implemented react router for SPA so that the page is being reloaded and user experience is awesome.
+  
+## Technologies
 
-* Used react router.
-* Used custom hook.
-* used rechart for chart data.
-* used bootstrap as CSS framework.
-* The website is responsive for mobile-phone.
+* Reactjs, Bootstrap, Custom hook, Rechart, React Router etc.

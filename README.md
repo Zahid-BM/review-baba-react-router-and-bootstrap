@@ -1,6 +1,6 @@
 # reviewBABA
 
-This website is An interactive mobile responsive SPA Book review Website with Reactjs and hosted here [Netlify Link](https://assignment-09-react-router.netlify.app/).
+This website is An interactive mobile responsive SPA Book review Website with Reactjs and hosted here [Netlify Link](https://reveiw-baba.netlify.app/).
 
 * Clicking on Explore Reviews button user will be redirected to reviews route and there user can see all the reviews.
 * In the home page only three reviews are displayed. Prevented to show all the reviews..

@@ -6,7 +6,7 @@ const Dashboard = () => {
     const [data, setData] = useChart();
     return (
         <div className='container'>
-            <h1 className='mt-5 pb-3 fw-bolder display-5  text-info border-bottom border-5'>Financial statements of half the last year</h1>
+            <h1 className='mt-5 pb-3 fw-bolder display-5  text-info border-bottom border-5'>Financial statements of the last half year</h1>
             <div className="row mb-5">
                 <div className="col-md-6 py-3">
                     <ResponsiveContainer width="100%" aspect={1.4}>
